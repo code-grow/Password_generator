@@ -8,4 +8,5 @@ A password generator in c++.<br/>
 <br/>
 As you can see the first password contains only upper case, lower case letters and numbers, while the others have also special characters.<br/>
 The algorithm should be focused for the password to **ALWAYS have the all four**.<br/>
-
+**************************************************************************************************************************************<br/>
+There should also be a version with fewer special characters because some websites don't like certain characters like: !@#$%^&*(){}[]
